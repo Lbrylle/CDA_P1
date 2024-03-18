@@ -25,4 +25,3 @@ The dataset comprises 100 observations with 100 features, of which 90 are contin
 - Lucas Brylle
 - Mads Prip
 
-```
